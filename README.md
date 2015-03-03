@@ -18,6 +18,9 @@ http://mydomain.com/fibservice.php?num=5
 
 ###  Handling Errors ### 
 
+Given a negative number, it will respond with an array with -1.
+{"fibonacci":[-1]}
+
 
 
 
