@@ -10,7 +10,7 @@ Copy the fibservice.php file to your PHP development stacks folder.
 
 ## Usage ##
 
-http://mydomain.com/fibservice.php?num=50
+http://mydomain.com/fibservice.php?num=5
 
 ## JSON output ##
 
