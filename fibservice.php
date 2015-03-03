@@ -16,7 +16,7 @@ function fibonacci($n) {
 
 $fibonacci = array();
 	
-if($n <0) {
+if($n < 1) {
 	
     $fibonacci[] = -1;
 	
