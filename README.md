@@ -1,18 +1,18 @@
 # PhpFibonacciService
 
-## Description ##
+### Description ###
 
 Provides a simple Fibonacci RestFul web service.
 
-## Install ##
+### Install ###
 
 Copy the fibservice.php file to your PHP development stacks folder.
 
-## Usage ##
+### Usage ###
 
 http://mydomain.com/fibservice.php?num=5
 
-## JSON output ##
+### JSON output ###
 
 {"fibonacci":[0,1,1,2,3]}
 
