@@ -2,7 +2,7 @@
 
 ### Description ###
 
-Provides a simple Fibonacci RestFul web service.
+Provides a simple Fibonacci RestFul web service. it accepts a number, n, as input and returns the first n Fibonacci numbers, starting from 0. I.e. given n = 5, appropriate output would represent the sequence "0 1 1 2 3".
 
 ### Install ###
 
@@ -15,5 +15,9 @@ http://mydomain.com/fibservice.php?num=5
 ### JSON output ###
 
 {"fibonacci":[0,1,1,2,3]}
+
+###  Handling Errors ### 
+
+
 
 
