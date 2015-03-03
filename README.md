@@ -8,8 +8,12 @@ Provides a simple Fibonacci RestFul web service.
 
 Copy the fibservice.php file to your PHP development stacks folder.
 
-### Usage ###
+## Usage ##
 
 http://mydomain.com/fibservice.php?num=50
+
+## JSON output ##
+
+{"fibonacci":[0,1,1,2,3]}
 
 
